@@ -12,7 +12,8 @@
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *C#, Python, and more...*  
 - 🌐 Check out my projects at [Portfolio](https://devfolio-rn.netlify.app/)  
-- 📫 Reach me at **devbyrico@gmail.com**  
+- 📫 Reach me at **Email: [devbyrico@gmail.com](mailto:devbyrico@gmail.com)**
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dev-by-rico)
 
 ---
 
