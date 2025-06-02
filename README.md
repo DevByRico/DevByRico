@@ -8,12 +8,12 @@
 ---
 
 ### 📌 About Me  
-- 🎯 I'm currently working on **[Portfolio](https://github.com/DevByRico/Portfolio)**
+- 🎯 I'm currently working on **[Portfolio](https://github.com/DevByRico/Portfolio)**  
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *C#, Python, and more...*  
-- 🌐 Check out my projects at [Portfolio](https://devfolio-rn.netlify.app/)  
-- 📫 Reach me at **Email: [devbyrico@gmail.com](mailto:devbyrico@gmail.com)**
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dev-by-rico)
+- 🌐 Check out my projects at **[Portfolio](https://devfolio-rn.netlify.app/)**  
+- 📫 Reach me at **[devbyrico@gmail.com](mailto:devbyrico@gmail.com)**  
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/dev-by-rico)**
 
 ---
 
